@@ -12,11 +12,13 @@ h1, p, .links{
 a {
   padding: 10px;
 
+
 }
 
 img {
   display: block;
   margin: 0px auto;
+    margin-bottom: 20px;
 }
 
 
